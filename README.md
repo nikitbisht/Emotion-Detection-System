@@ -38,7 +38,7 @@ python app.py
 
 | Home Page  | Detection Example |
 |------------|------------------|
-| ![Home](src\images\home_page.PNG) | ![Detection](src\images\detection_page.PNG) |
+| ![Home](src/images/home_page.PNG) | ![Detection](src/images/detection_page.PNG) |
 
 ---
 
