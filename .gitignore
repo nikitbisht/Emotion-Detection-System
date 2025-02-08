@@ -1,0 +1,12 @@
+# Ignore unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.env
+logs/
+venv/
+.idea/
+*.log
+*.ckpt

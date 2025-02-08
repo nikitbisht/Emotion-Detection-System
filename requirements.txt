@@ -1,0 +1,10 @@
+# List of dependencies for the emotion detection project
+tensorflow==2.15.0
+keras
+numpy
+matplotlib
+opencv-python
+scikit-learn
+pandas
+seaborn
+streamlit  # If using a Streamlit app
