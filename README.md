@@ -7,7 +7,6 @@ This project is a deep learning-based application designed to detect emotions fr
 ## 🚀 Features
 
 - **Image Upload Mode**: Upload an image to detect emotions.
-- **Real-Time Camera Mode**: Use your webcam to detect emotions live.
 - **Deep Learning Model**: Built with TensorFlow and Keras using transfer learning, achieving 69% accuracy.
 - **Streamlit Interface**: Simple and easy-to-use interface.
 
@@ -39,7 +38,7 @@ python app.py
 
 | Home Page  | Detection Example |
 |------------|------------------|
-| ![Home](images\home_page.PNG) | ![Detection](images\detection_page.PNG) |
+| ![Home](src\images\home_page.PNG) | ![Detection](src\images\detection_page.PNG) |
 
 ---
 
